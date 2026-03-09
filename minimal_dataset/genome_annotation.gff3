@@ -1,0 +1,14 @@
+##gff-version 3
+##sequence-region NC_001490.1 1 7212
+NC_001490.1	RefSeq	region	1	7212	.	+	.	ID=NC_001490.1:1..7212;Dbxref=taxon:12131;gbkey=Src;genome=genomic;mol_type=genomic RNA;note=from MRC Common Cold Unit [1] and American Type Culture Collection [2];old-name=Human rhinovirus 14
+NC_001490.1	RefSeq	CDS	629	835	.	+	.	Name=VP4;gbkey=Prot;product=1A (VP4);protein_id=NP_740515.1;ID=id-NP_041009.1:1..69
+NC_001490.1	RefSeq	CDS	836	1621	.	+	.	Name=VP2;gbkey=Prot;product=1B (VP2);protein_id=NP_740516.1;ID=id-NP_041009.1:70..331
+NC_001490.1	RefSeq	CDS	1622	2329	.	+	.	Name=VP3;gbkey=Prot;product=1C (VP3);protein_id=NP_740517.1;ID=id-NP_041009.1:332..567
+NC_001490.1	RefSeq	CDS	2330	3196	.	+	.	Name=VP1;gbkey=Prot;product=1D (VP1);protein_id=NP_740518.1;ID=id-NP_041009.1:568..856
+NC_001490.1	RefSeq	CDS	3197	3634	.	+	.	Name=2A;gbkey=Prot;product=2A (P2-A);protein_id=NP_740519.1;ID=id-NP_041009.1:857..1002
+NC_001490.1	RefSeq	CDS	3635	3925	.	+	.	Name=2B;gbkey=Prot;product=2B (P2-B);protein_id=NP_740520.1;ID=id-NP_041009.1:1003..1099
+NC_001490.1	RefSeq	CDS	3926	4915	.	+	.	Name=2C;gbkey=Prot;product=2C (P2-C);protein_id=NP_740521.1;ID=id-NP_041009.1:1100..1429
+NC_001490.1	RefSeq	CDS	4916	5170	.	+	.	Name=3A;gbkey=Prot;product=3A (P3-A);protein_id=NP_740522.1;ID=id-NP_041009.1:1430..1514
+NC_001490.1	RefSeq	CDS	5171	5239	.	+	.	Name=3B;gbkey=Prot;product=3B (VPg);protein_id=NP_740523.1;ID=id-NP_041009.1:1515..1537
+NC_001490.1	RefSeq	CDS	5240	5785	.	+	.	Name=3C;gbkey=Prot;product=protease 3C;protein_id=NP_740524.1;ID=id-NP_041009.1:1538..1719
+NC_001490.1	RefSeq	CDS	5786	7165	.	+	.	Name=3D;product=3D;gbkey=Prot;protein_id=NP_740525.1;ID=id-NP_041009.1:1720..2179
